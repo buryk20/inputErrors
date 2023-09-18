@@ -11,5 +11,19 @@ return [
     'Неверный пароль' => '@Incorrect password',
     'Максимальная длина поля' => '@Maximum field length',
     'Неверный формат ИНН' => '@Invalid TIN format',
-    'Неверный формат ЕГРПОУ' => '@Invalid EDRPOU format'
+    'Неверный формат ЕГРПОУ' => '@Invalid EDRPOU format',
+
+    //Pop-up
+    'Аккаунт создан' => '@Account created',
+    'Для активации аккаунта на Ваш E-mail отправлено письмо с подтверждением.' => 'To activate your account, a confirmation email has been sent to your email.',
+    'Сброс пароля' => '@Password reset',
+    'Письмо с инструкцией по изменению пароля  отправлено Вам на E-mail' => '@A letter with instructions for changing your password has been sent to your email.',
+    'Пароль успешно изменен' => '@Password changed successfully',
+    'Спасибо, Ваш пароль успешно изменен' => '@Thank you, your password has been successfully changed',
+    'E-mail успешно подтвержден' => '@Email successfully confirmed',
+    'Спасибо за регистрацию' => '@Thank you for registering',
+
+    //оформление заказа
+    'Войдите в учетную запись' => '@Sign in to your account',
+    'У Вас есть учетная запись, для того чтобы отслеживать статус Вашего заказа' => '@You have an account to track the status of your order',
 ];
